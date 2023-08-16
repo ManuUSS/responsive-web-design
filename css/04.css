@@ -1,0 +1,18 @@
+.oferta {
+    background-color: #00446e;
+    padding: 2rem;
+    text-align: center;
+}
+
+.precio {
+    font-size: 6rem;
+    margin: 0;
+}
+
+/* Media query entre dos tamanos */
+/* @media ( min-width: 600px ) and ( max-width: 800px ), ( min-width: 1200px ) { */
+@media ( min-width: 600px ) and ( max-width: 800px ) {
+    .oferta {
+        background-color: yellow;
+    }
+}
