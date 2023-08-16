@@ -1,0 +1,22 @@
+/* Tamanos estandar para los media-queries */
+/* La mayoria de frameworks varia por poca cantidad de pixeles
+por lo cual es una guia pero no esta escrita en piedra */
+@media (min-width: 550px ) {
+    
+}
+
+@media (min-width: 768px ) {
+    
+}
+
+@media (min-width: 1024px ) {
+    
+}
+
+@media (min-width: 1200px ) {
+    
+}
+
+@media (min-width: 1600px ) {
+    
+}
