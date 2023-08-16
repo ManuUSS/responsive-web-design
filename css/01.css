@@ -11,3 +11,14 @@
     font-size: 6rem;
     margin: 0;
 }   
+
+/* No soporta las unidades de rem */
+@media ( max-width: 600px ) {
+    .oferta {
+        max-width: 30rem;
+    }
+
+    .precio {
+        font-size: 2rem;
+    }
+}
