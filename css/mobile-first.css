@@ -10,6 +10,8 @@
 }
 
 /* Con mobile-first siempre usar min-width */
+/* Recordar siempre el orden en cascada de CSS */
+/* Colocar los media-queries del mas peque al mas grande */
 @media ( min-width: 600px ) {
     .oferta {
         max-width: 40rem;
